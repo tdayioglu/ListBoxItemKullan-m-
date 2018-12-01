@@ -1,0 +1,10 @@
+C:\Users\MSI1\Desktop\C# PROJELERİM\ListBoxItemKullanimi\ListBoxItemKullanimi\bin\Debug\ListBoxItemKullanimi.exe.config
+C:\Users\MSI1\Desktop\C# PROJELERİM\ListBoxItemKullanimi\ListBoxItemKullanimi\bin\Debug\ListBoxItemKullanimi.exe
+C:\Users\MSI1\Desktop\C# PROJELERİM\ListBoxItemKullanimi\ListBoxItemKullanimi\bin\Debug\ListBoxItemKullanimi.pdb
+C:\Users\MSI1\Desktop\C# PROJELERİM\ListBoxItemKullanimi\ListBoxItemKullanimi\obj\Debug\ListBoxItemKullanimi.csprojResolveAssemblyReference.cache
+C:\Users\MSI1\Desktop\C# PROJELERİM\ListBoxItemKullanimi\ListBoxItemKullanimi\obj\Debug\ListBoxItemKullanimi.Form1.resources
+C:\Users\MSI1\Desktop\C# PROJELERİM\ListBoxItemKullanimi\ListBoxItemKullanimi\obj\Debug\ListBoxItemKullanimi.Properties.Resources.resources
+C:\Users\MSI1\Desktop\C# PROJELERİM\ListBoxItemKullanimi\ListBoxItemKullanimi\obj\Debug\ListBoxItemKullanimi.csproj.GenerateResource.Cache
+C:\Users\MSI1\Desktop\C# PROJELERİM\ListBoxItemKullanimi\ListBoxItemKullanimi\obj\Debug\ListBoxItemKullanimi.csproj.CoreCompileInputs.cache
+C:\Users\MSI1\Desktop\C# PROJELERİM\ListBoxItemKullanimi\ListBoxItemKullanimi\obj\Debug\ListBoxItemKullanimi.exe
+C:\Users\MSI1\Desktop\C# PROJELERİM\ListBoxItemKullanimi\ListBoxItemKullanimi\obj\Debug\ListBoxItemKullanimi.pdb
